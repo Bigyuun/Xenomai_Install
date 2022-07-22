@@ -126,6 +126,8 @@ __Recommended options:__
 
 
 Now start the compilation
+
+여기 아~주 오래걸린다잉~ 와이파이로 한시간은 한듯..?
 ```sh
 CONCURRENCY_LEVEL=$(nproc) make-kpkg --rootcmd fakeroot --initrd kernel_image kernel_headers
 ```
