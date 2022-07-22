@@ -59,10 +59,12 @@ cd ..
 
 ```
 
-Now configure the kernel
-아마 안될 수도 있음... 그럴경우
+Now configure the kernel...
+
+근데 아마 안될 수도 있음... 그럴경우
 https://rtt-lwr.readthedocs.io/en/latest/rtpc/xenomai3.html
 위 링크 가이드에서 menuconfig 수정하는 방법 여러개 알려준다잉
+
 ```sh
 make menuconfig
 ```
